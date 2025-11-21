@@ -1,2 +1,3 @@
-# A-level-Anki-Flashcards
-  welcome to the anki flashcards that helped me get all A*s in my A-levels and I hope they help you do the same (:
+# A-Level Anki Flashcards
+These are the Anki decks I used to get A*A*A* at A-level.  
+They’re now free to use, tweak, and improve – hope they help you smash your grades too 🙂
